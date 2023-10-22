@@ -1,3 +1,12 @@
+## Screenshots :
+![image](https://github.com/HL-Abdallah/softway-medical-frontend/assets/68193549/fa707db5-3e56-40cf-a295-3871563ff074)
+---
+![image](https://github.com/HL-Abdallah/softway-medical-frontend/assets/68193549/3e3457e4-9974-4206-91f7-dcf76ce811cc)
+---
+![image](https://github.com/HL-Abdallah/softway-medical-frontend/assets/68193549/4a9d7a3c-9f4d-405d-86ac-779cbb1140bc)
+---
+![image](https://github.com/HL-Abdallah/softway-medical-frontend/assets/68193549/6d2106d7-a286-496f-9c9c-98949bb0355b)
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
